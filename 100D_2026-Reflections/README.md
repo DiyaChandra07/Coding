@@ -1,0 +1,1 @@
+This is a compilation of notes and imrovements from the !00 days of code 2026 challenge
